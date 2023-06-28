@@ -1,0 +1,20 @@
+h1{
+   background: red;
+}
+.p1{
+background: yellow;
+font-size: 23pt;
+color: black}
+.p2{
+border: 10px solid yellow;
+border-radius: 5px;
+font-size:23pt;
+margin-bottom: 60px;
+padding-left:20px;
+padding-right: 20px;
+padding-top: 20px;
+padding-bottom: 20px}
+.p3{
+font-weight: bold;
+font-size: 24pt;
+font-family: Courier New}
