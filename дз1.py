@@ -1,7 +1,4 @@
 def gg (s):
-    if s == s[::-1]:
-        print(True)
-    else:
-        print(False)
+     return s == s[::-1]
 
-gg('helloworld')
+print(gg('helloworld'))
